@@ -9,6 +9,12 @@
      - **YOLO konvolüsyonel sinir ağları kullanarak nesne tespiti yapan bir algoritmadır. Açılımı ''You Only Look Once'' demektir.**   
    - #### English
      - **YOLO (“You Look Only Once”) is an efficient real-time object recognition algorithm.**   
+2. ### **YOLO nasıl kullanılır ? // How use YOLO?**
+   ```Python
+   python3 tank_detect.py --source 
+   
+   
+   ```
 
 
 
