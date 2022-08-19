@@ -1,6 +1,9 @@
 ### Türkçe -- > Tank ve Helikopteri algılayarak onlara yönelen Silah
 ### English -- > Tank-helicopter-detect-and-auto-weapon
 
+[![Watch the video](https://i9.ytimg.com/vi/brhcyGKEaVs/mq1.jpg?sqp=CPyq_5cG&rs=AOn4CLBX1kqEYYdUFfkF5xOGvvrU_0kzRA)](https://www.youtube.com/watch?v=brhcyGKEaVs)
+
+
 
 ## **YOLOV5**
 
