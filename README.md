@@ -11,7 +11,9 @@
      - **YOLO (“You Look Only Once”) is an efficient real-time object recognition algorithm.**   
 2. ### **YOLO nasıl kullanılır ? // How use YOLO?**
    ```Python
-   python3 tank_detect.py --source 
+   python3 tank_detect.py --source  0              # webcam
+                                    img.jpg        # image
+                                    vid.mp4        # video
    
    
    ```
