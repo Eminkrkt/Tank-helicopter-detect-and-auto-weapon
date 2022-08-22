@@ -1,5 +1,26 @@
-### Türkçe -- > Tank ve Helikopteri algılayarak onlara yönelen Silah
-### English -- > Tank-helicopter-detect-and-auto-weapon
+<h1 align="center">E-104 TAARRUZ SİLAHI</h1>
+
+## **PROJE**
+
+### 1. Türkçe 
+   - Gelişen dünyada askeri güç çok önemli bir noktaya gelmiştir. Ve bazen ülkeler askeri güçlerini kullanarak dünyaya yön vermeye çalışırlar.
+   Bu istenmeyen sonuçlara yol açar ve çatışma kaçınılmaz hale gelir. Bu durumlarda da askeri güç ön plana çıkar.
+   Yoğun çatışma alanında askerlerin kafasını dahi kaldıramadığı anlar olur. Ve bu savaş kaderinin değiştiği anlara neden olabilir.   
+   Böyle durumlarda __E-104 Taarruz Silahi__ ön plana çıkmaktadır.
+   - Silahın en büyük avantajı insana ihtiyaç duymadan, düşmanı tespit edip ateş açmasıdır. Bu durum savaş sahasında size büyük bir avantaj sağlar.
+   Silah otomatik olarak __Tank ve Helikopter__'leri algılayarak silahın namlusunu belirlediği hedefe doğru çevirir. Algoritmamız da belirlediğimiz          şartlar sağlanırsa da silah atışa başlar
+### 2. English 
+   - Military power has come to a very important point in the developing world. And sometimes countries try to steer the world by using their military 
+   power.
+   This leads to undesirable consequences and conflict becomes inevitable. In these situations, military power comes to the fore.
+   In the field of intense conflict, there are moments when the soldiers cannot even raise their heads. And this war can cause moments when your destiny 
+   changes.
+   In such cases, the __E-104 Assault Weapon__ comes to the fore.
+   - The biggest advantage of the gun is that it detects the enemy and opens fire without the need for people. This gives you a huge advantage on the 
+   battlefield.
+   The gun automatically detects __Tank and Helicopter__ and turns the gun's barrel towards the target it has determined. Our algorithm also determined
+   Even if the conditions are met, the gun starts firing.
+   
 
 
 ## **YOLOV5**
