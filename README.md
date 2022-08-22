@@ -21,6 +21,13 @@
    The gun automatically detects __Tank and Helicopter__ and turns the gun's barrel towards the target it has determined. Our algorithm also determined
    Even if the conditions are met, the gun starts firing.
    
+   
+## **ALGORİTMA**   
+### 1. Türkçe 
+- Algoritma Python programlama dili ile YOLOv5 algoritmasını kullanarak. Arduino ve Python seri haberleşmesini kullanır.
+
+### 2. English 
+- Algorithm using the YOLOv5 algorithm with the Python programming language. Arduino and Python use serial communication.
 
 
 ## **YOLOV5**
