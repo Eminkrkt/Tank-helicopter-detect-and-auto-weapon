@@ -33,6 +33,8 @@ gerektiğini hesaplar. Bunları da Arduino mikrodenetleyicisine göndererek serv
 
 ### 2. English 
 - Algorithm using the YOLOv5 algorithm with the Python programming language. Arduino and Python use serial communication.
+- The algorithm divides the x and y pixels of the generated image by the 180 degree servo angle and calculates how many degrees we need to rotate 
+   the servo for each pixel. By sending them to the Arduino microcontroller, it provides the movement of the servo.
 - If the algorithm detects more than one object, it tends to the object with the highest accuracy rate.
 
 
