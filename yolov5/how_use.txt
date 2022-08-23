@@ -1,0 +1,6 @@
+python3 tank_detect2.py --source ALTAY.jpg 
+
+tank_detect -- > Arduino bağlantısı yok.
+tank_detect_and_weapon -- > arduino bağlantısı var.
+
+Arduino bağlantısı noktası kontrol.
