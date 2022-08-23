@@ -25,9 +25,15 @@
 ## **ALGORİTMA**   
 ### 1. Türkçe 
 - Algoritma Python programlama dili ile YOLOv5 algoritmasını kullanarak. Arduino ve Python seri haberleşmesini kullanır.
+- Algortma 180 derecelik servo açısını işlenen resimin x ve y pikseline bölerek her bir piksel için servoyu kaç derece döndermemiz
+gerektiğini hesaplar. Bunları da Arduino mikrodenetleyicisine göndererek servonun hareketini sağlar.
+- Algoritma birden fazla nesne algılaması yaparsa aralarından en yüksek doğruluk oranına sahip olan nesneye yönelim yapmaktadır.
+![Ekran Görüntüsü - 2022-08-22 15-13-27](https://user-images.githubusercontent.com/84287815/186099152-cd16efff-25fc-4272-bc18-35fc6d03d313.png)
+
 
 ### 2. English 
 - Algorithm using the YOLOv5 algorithm with the Python programming language. Arduino and Python use serial communication.
+- If the algorithm detects more than one object, it tends to the object with the highest accuracy rate.
 
 
 ## **YOLOV5**
