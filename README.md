@@ -9,6 +9,8 @@
    Böyle durumlarda __E-104 Taarruz Silahi__ ön plana çıkmaktadır.
    - Silahın en büyük avantajı insana ihtiyaç duymadan, düşmanı tespit edip ateş açmasıdır. Bu durum savaş sahasında size büyük bir avantaj sağlar.
    Silah otomatik olarak __Tank ve Helikopter__'leri algılayarak silahın namlusunu belirlediği hedefe doğru çevirir. Algoritmamız da belirlediğimiz          şartlar sağlanırsa da silah atışa başlar
+   - Silahın modüler olması istenildiği zaman __Taaruz Helikopterlerine__ istenildiği zamanda __Kara Kuvvetleri Araçlarına__ takılarak savaş sahasında 
+   avantaj sağlar.
 ### 2. English 
    - Military power has come to a very important point in the developing world. And sometimes countries try to steer the world by using their military 
    power.
@@ -20,6 +22,8 @@
    battlefield.
    The gun automatically detects __Tank and Helicopter__ and turns the gun's barrel towards the target it has determined. Our algorithm also determined
    Even if the conditions are met, the gun starts firing.
+   - When the weapon is required to be modular, it can be mounted on __Land Forces Vehicles__ and  __Attack helicopters__
+   This gives you an advantage on the battlefield.
    
    
 ## **ALGORİTMA**   
@@ -37,6 +41,11 @@ gerektiğini hesaplar. Bunları da Arduino mikrodenetleyicisine göndererek serv
    the servo for each pixel. By sending them to the Arduino microcontroller, it provides the movement of the servo.
 - If the algorithm detects more than one object, it tends to the object with the highest accuracy rate.
 
+### 3. TEST
+
+![IMG_20220823_172939](https://user-images.githubusercontent.com/84287815/186186527-806dafbd-ea7c-43d7-a78e-60abcfb4547b.jpg)
+
+![Ekran Görüntüsü - 2022-08-23 17-30-08](https://user-images.githubusercontent.com/84287815/186186548-a3e0de9e-b11c-4827-bd8a-733640046dba.png)
 
 ## **YOLOV5**
 
